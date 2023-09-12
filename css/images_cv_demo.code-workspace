@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../images_cv_demo"
+		},
+		{
+			"path": "../../boxes"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Flexbox Starter"
+		}
+	],
+	"settings": {}
+}
